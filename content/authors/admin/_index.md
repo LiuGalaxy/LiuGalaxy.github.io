@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yinhe Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liu Yinhe
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yinhe
+last_name: Liu
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Wuhan University
     url: https://openai.com/
 
 # Social network links
