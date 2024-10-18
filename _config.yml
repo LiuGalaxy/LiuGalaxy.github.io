@@ -22,9 +22,9 @@ repository               : "liugalaxy/liugalaxy.github.io"
 author:
   # Biographic information
   avatar           : "profile_photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Yinhe Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher in Photogrammetry and Remote Sensing at Wuhan University, China. My research focuses on remote sensing, machine learning, and large-scale land cover mapping."
   location         : "Wuhan, China"
   employer         : "Wuhan University"
   uri              : # URL
