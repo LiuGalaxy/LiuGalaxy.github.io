@@ -15,14 +15,18 @@ My interests include high spatial resolution remote sensing interpretation and c
 
 ## Education
 
-- **Ph.D. candidate in Photogrammetry and Remote Sensing** *(2019-2024)*  
+- **Ph.D. in Photogrammetry and Remote Sensing** *(2019-2024)*  
   Wuhan University, Wuhan, China  
   Adviser: Prof. Yanfei Zhong
- ![Wuhan University Logo](images/whu_logo.png)
+
+     <img src="../images/whu_logo.png" alt="Wuhan University Logo" width="50">
+
 
 - **B.E. in Surveying and Mapping Engineering** *(2015-2019)*  
   Northeastern University, Shenyang, China  
   Adviser: Prof. Jiateng Guo
+
+     <img src="../images/neu_logo.webp" alt="Northeastern University Logo" width="50">
 
 ---
 
